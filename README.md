@@ -65,5 +65,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 Developed by
-Prathviraj,Jeevan ,Prajwal, Sanket,Yash and Suvan
+Prathviraj:reviwer,
+Jeevan:Backend database ,
+Prajwal:documentation, 
+Sanket:front end styling 
+,Yash :backend rooting 
+and Suvan:frontend 
 
